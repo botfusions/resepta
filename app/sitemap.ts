@@ -8,5 +8,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 1,
     },
+    {
+      url: "https://resepta.cenktokgoz.chatgpt.site/gizlilik-politikasi",
+      lastModified: "2026-08-08",
+      changeFrequency: "yearly",
+      priority: 0.5,
+    },
+    {
+      url: "https://resepta.cenktokgoz.chatgpt.site/veri-silme-talebi",
+      lastModified: "2026-08-08",
+      changeFrequency: "yearly",
+      priority: 0.4,
+    },
   ];
 }
