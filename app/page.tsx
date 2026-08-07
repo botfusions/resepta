@@ -155,7 +155,7 @@ export default function Home() {
         ],
       }) }} />
 
-      <footer className="footer"><div className="brand"><span className="brand-mascot"><img src="/resepta-maskot.png" alt="Resepta maskotu" /></span><span className="brand-word">Resepta<span className="brand-dot">.</span></span></div><div className="footer-contact"><a href="mailto:info@botfusions.com">info@botfusions.com</a><a href="https://wa.me/905550341749" target="_blank" rel="noreferrer">WhatsApp’tan yazın</a></div><p>BotFusions tarafından geliştirildi.</p><span className="footer-note">Klinikler için daha iyi bir ilk cevap.</span></footer>
+      <footer className="footer"><div className="brand"><span className="brand-mascot"><img src="/resepta-maskot.png" alt="Resepta maskotu" /></span><span className="brand-word">Resepta<span className="brand-dot">.</span></span></div><div className="footer-contact"><a href="mailto:info@botfusions.com">info@botfusions.com</a><a href="https://wa.me/905550341749" target="_blank" rel="noreferrer">WhatsApp’tan yazın</a><a href="/gizlilik-politikasi">Gizlilik politikası</a></div><p>BotFusions tarafından geliştirildi.</p><span className="footer-note">Klinikler için daha iyi bir ilk cevap.</span></footer>
     </main>
   );
 }
