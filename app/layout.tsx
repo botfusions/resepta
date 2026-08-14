@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://resepta.cenktokgoz.chatgpt.site"),
+  metadataBase: new URL("https://resepta.botfusions.com"),
   title: "Resepta — Kliniğinizin dijital resepsiyonisti",
   description: "Resepta, İstanbul’daki kliniklerin WhatsApp mesajlarını karşılayan, randevu akışını düzenleyen dijital resepsiyonisttir.",
   keywords: ["klinik dijital resepsiyonist", "WhatsApp randevu sistemi", "doktor takvim uygulaması", "hasta iletişimi", "klinik otomasyonu", "İstanbul klinik otomasyonu", "Üsküdar klinik", "Kadıköy klinik", "Resepta"],
