@@ -20,5 +20,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "yearly",
       priority: 0.4,
     },
+    {
+      url: "https://resepta.botfusions.com/kullanim-sartlari",
+      lastModified: "2026-08-15",
+      changeFrequency: "yearly",
+      priority: 0.4,
+    },
   ];
 }
